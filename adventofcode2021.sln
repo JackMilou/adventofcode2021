@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "adventofcode2021", "adventofcode2021\adventofcode2021.csproj", "{6CA2B911-7248-44C0-AD14-323B9F16C027}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "day2", "day2\day2.csproj", "{3B31A435-735A-4E39-B39B-7C6DC1F84567}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6CA2B911-7248-44C0-AD14-323B9F16C027}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6CA2B911-7248-44C0-AD14-323B9F16C027}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6CA2B911-7248-44C0-AD14-323B9F16C027}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6CA2B911-7248-44C0-AD14-323B9F16C027}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3B31A435-735A-4E39-B39B-7C6DC1F84567}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3B31A435-735A-4E39-B39B-7C6DC1F84567}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3B31A435-735A-4E39-B39B-7C6DC1F84567}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3B31A435-735A-4E39-B39B-7C6DC1F84567}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
