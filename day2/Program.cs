@@ -48,11 +48,9 @@ namespace day2
                 switch (direction)
                 {
                     case "down":
-                        
                         aim += i;
                         break;
                     case "up":
-                        
                         aim -= i;
                         break;
                     case "forward":
