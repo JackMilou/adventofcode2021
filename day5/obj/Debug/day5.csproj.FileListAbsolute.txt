@@ -1,0 +1,6 @@
+C:\development\c#\HalloWereld\adventofcode\adventofcode2021\day5\bin\Debug\day5.exe
+C:\development\c#\HalloWereld\adventofcode\adventofcode2021\day5\bin\Debug\day5.pdb
+C:\development\c#\HalloWereld\adventofcode\adventofcode2021\day5\obj\Debug\day5.csprojAssemblyReference.cache
+C:\development\c#\HalloWereld\adventofcode\adventofcode2021\day5\obj\Debug\day5.csproj.CoreCompileInputs.cache
+C:\development\c#\HalloWereld\adventofcode\adventofcode2021\day5\obj\Debug\day5.exe
+C:\development\c#\HalloWereld\adventofcode\adventofcode2021\day5\obj\Debug\day5.pdb
